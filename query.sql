@@ -37,6 +37,7 @@ SELECT
     observations.user_label_sex,
     observations.user_label_species_name,
     observations.user_label_species_id,
+    species.common_name
     observations.source,
     observations.expert_label_animal_name,
     observations.expert_label_sex,
